@@ -21,7 +21,7 @@ tags:
 >
 > inspiration：take a sequence into three parts A/B/C，A is an uniform part, C is a non-uniform part and B is the span bewteen A and C or B and C is indivually uniform part in non-uniform one?
 
-# 前言
+### Approach
 
 [![](http://upload-images.jianshu.io/upload_images/2178672-51a2fe6fbe24d1cd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](http://qiubaiying.github.io/)
 
