@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation
+title:      Uniform Sequence Better:Time Interval Aware Data Augmentation for Sequential Recommendation
 subtitle:   From data perspective
 date:       2014-07-02
 author:     BY
@@ -25,29 +25,6 @@ tags:
 
 [![](http://upload-images.jianshu.io/upload_images/2178672-51a2fe6fbe24d1cd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](http://qiubaiying.github.io/)
 
-
-
-
-```
-├── _config.yml
-├── _drafts
-|   ├── begin-with-the-crazy-ideas.textile
-|   └── on-simplicity-in-technology.markdown
-├── _includes
-|   ├── footer.html
-|   └── header.html
-├── _layouts
-|   ├── default.html
-|   └── post.html
-├── _posts
-|   ├── 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   └── 2009-04-26-barcamp-boston-4-roundup.textile
-├── _data
-|   └── members.yml
-├── _site
-├── img
-└── index.html
-```
 
 | operation | method | detail | effect |
 | -- | -- | -- | -- |
