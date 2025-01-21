@@ -2,7 +2,7 @@
 layout:     post
 title:      Uniform Sequence Better:Time Interval Aware Data Augmentation for Sequential Recommendation
 subtitle:   From data perspective
-date:       2014-07-02
+date:       2024-07-06
 author:     BY
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
